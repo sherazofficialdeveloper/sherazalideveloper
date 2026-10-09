@@ -167,7 +167,7 @@ export const projectsData: ProjectItem[] = [
     category: 'Mobile App',
     description:
       'An emergency safety mobile application that lets users trigger SOS alerts, share precise location, capture emergency photos and short audio, and notify trusted groups during critical situations.',
-    image: '/cogg Safe.png',
+    image: '/Cogg Safe.png',
     technologies: [
       'React Native', 'Node.js', 'Express.js', 'MongoDB', 'JWT',
       'Firebase Cloud Messaging', 'Cloud Storage',

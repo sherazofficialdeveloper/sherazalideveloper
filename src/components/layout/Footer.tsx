@@ -75,7 +75,7 @@ export const Footer: React.FC = () => {
               href="/contact"
               className="group px-6 py-3 rounded-[4px] bg-[#F97316] hover:bg-[#EA580C] text-white text-[13px] font-['Lexend'] font-semibold shadow-md hover:shadow-lg transition-all flex items-center gap-2"
             >
-              <span>Contact Sheraz Ali</span>
+              <span>Contact Me</span>
               <Send className="w-3.5 h-3.5 group-hover:translate-x-1 group-hover:-translate-y-0.5 transition-transform duration-200" />
             </Link>
           </div>
@@ -89,7 +89,7 @@ export const Footer: React.FC = () => {
           <div className="lg:col-span-4">
                   <img src="/assets/logo.png" width="300px" height="" alt="" />
             <p className="text-[13.5px] leading-[24px] text-blue-100/80 max-w-sm mb-5 font-normal">
-              Specialized Full Stack Developer with 2+ years of verified commercial software development experience. Engineering responsive websites, cross-platform mobile apps, native desktop software, and automated bots.
+              I am a Full Stack Developer with 2+ years of verified commercial software development experience. I build responsive websites, cross-platform mobile apps, native desktop software, and automated bots.
             </p>
             <div className="inline-flex items-center gap-2 p-2.5 rounded-[4px] bg-[#071129] border border-blue-500/20 text-[12px] text-blue-200/90 hover:border-blue-400/40 transition-colors">
               <ShieldCheck className="w-4 h-4 text-emerald-400 shrink-0" />

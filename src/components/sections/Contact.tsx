@@ -157,7 +157,7 @@ export const Contact: React.FC = () => {
         <SectionHeading
           category="Contact Now"
           title="Get In Touch With"
-          highlight="Sheraz Ali."
+          highlight="Me."
           highlightColor="orange"
           description="Ready to discuss project architecture, development timelines, or technical specifications? Reach out directly using the form below."
         />

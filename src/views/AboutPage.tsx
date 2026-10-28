@@ -91,7 +91,7 @@ export const AboutPage: React.FC = () => {
               variants={fadeUp}
               className="font-['Lexend'] text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-[1.12] mb-5"
             >
-              About <span className="text-[#FDBA74]">Sheraz Ali</span>
+              About <span className="text-[#FDBA74]">Me</span>
             </motion.h1>
 
             <motion.p
@@ -129,7 +129,7 @@ export const AboutPage: React.FC = () => {
 
                 <div className="relative z-10 rounded-[8px] overflow-hidden bg-[#0F286E] shadow-[0_20px_50px_rgba(29,78,216,0.2)] border border-blue-400/30">
                   <img
-                    src="/assets/Sheraz Ali FullStack Developer.png"
+                    src="/assets/Sheraz Ali.png"
                     onError={(e) => {
                       (e.currentTarget as HTMLImageElement).src = profileSvg;
                     }}
@@ -600,7 +600,7 @@ export const AboutPage: React.FC = () => {
               Ready to start your project?
             </h3>
             <p className="text-[14px] text-blue-100/90">
-              Get in touch directly with Sheraz Ali to discuss requirements, timeline, and scope.
+              Get in touch with me to discuss your requirements, timeline, and project scope.
             </p>
           </div>
           <div className="flex items-center gap-4">

@@ -8,18 +8,18 @@ import { FloatingContactButton } from '../src/components/common/FloatingContactB
 export const metadata: Metadata = {
   title: 'Sheraz Ali | Full Stack Developer',
   description:
-    'Professional portfolio of Sheraz Ali, Full Stack Developer specializing in Website Development, Mobile Apps, Desktop Software, and Bot Development.',
+    'I am Sheraz Ali, a Full Stack Developer building websites, mobile apps, desktop software, and automation bots.',
   openGraph: {
     title: 'Sheraz Ali | Full Stack Developer',
     description:
-      'Professional portfolio of Sheraz Ali, Full Stack Developer specializing in Website Development, Mobile Apps, Desktop Software, and Bot Development.',
+      'I am Sheraz Ali, a Full Stack Developer building websites, mobile apps, desktop software, and automation bots.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Sheraz Ali | Full Stack Developer',
     description:
-      'Professional portfolio of Sheraz Ali, Full Stack Developer specializing in Website Development, Mobile Apps, Desktop Software, and Bot Development.',
+      'I am Sheraz Ali, a Full Stack Developer building websites, mobile apps, desktop software, and automation bots.',
   },
 };
 

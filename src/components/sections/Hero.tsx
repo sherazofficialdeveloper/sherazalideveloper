@@ -144,7 +144,7 @@ export const Hero: React.FC = () => {
                   {/* Photo area — NO full overlay now, image is fully clear */}
                   <div className="relative rounded-[8px] overflow-hidden bg-[#0F286E] border border-blue-400/20 mb-4 aspect-[4/3] group">
                     <img
-                      src='/assets/Sheraz Ali.png'
+                      src='/assets/sheraz-ali developer.png'
                       onError={(e) => {
                         (e.currentTarget as HTMLImageElement).src = profileSvg;
                       }}
